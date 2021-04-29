@@ -1,0 +1,10 @@
+.login-wrapper{
+    width: 530px;
+    height: 250px;
+    background: #c8c8c8;
+    margin: 0 auto;
+    margin-top: 156px;
+}
+.pointer{
+   cursor: pointer;
+}

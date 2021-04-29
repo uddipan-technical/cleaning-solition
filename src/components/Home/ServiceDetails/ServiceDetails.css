@@ -1,0 +1,13 @@
+.image-sizing{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+.button-style {
+    width: 130px;
+    padding: 5px;
+    border: 2px solid #c71b9c;
+}
+.allicard:hover img {
+    width: 300px;
+}

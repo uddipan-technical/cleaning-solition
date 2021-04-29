@@ -1,0 +1,24 @@
+.choose-us{
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 465px;
+    background-position: center center;
+}
+
+.choose-us::before{
+    content:  "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgb(36, 41, 73);
+    opacity: .8;
+    top: 0;
+}
+
+.choose-us img {
+    width: 90%;
+    height: 372px;
+    border-radius: 10px;
+}
